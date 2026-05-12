@@ -92,4 +92,9 @@ class MedicinePrescribingAgent:
 agent = MedicinePrescribingAgent()
 agent.run()
 ```
+## OUTPUT
 
+<img width="703" height="486" alt="image" src="https://github.com/user-attachments/assets/5f7ca9be-2eb8-461c-b43e-112e57930340" />
+
+## RESULT
+Thus an AI gent is Created and Executed Succesfully
